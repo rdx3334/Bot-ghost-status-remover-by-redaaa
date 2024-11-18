@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By redaaa"];
+const statusMessages = ["Welcome To EGO Community", "Made By redaaa];
 
 
 let currentIndex = 0;
